@@ -23,7 +23,7 @@ The Original Model was trained in Google colab, the notebook ```emotion_detectio
 ### Model Summary
 ![sum](https://github.com/Varun221/Real_time_emotion_detection/blob/master/images/model_summary.png)
  
-The model was trained for 30 epochs with results - 
+The model was trained for 32 epochs with results - 
 ![f1](https://github.com/Varun221/Real_time_emotion_detection/blob/master/images/f1_score.png) \
 ![acc](https://github.com/Varun221/Real_time_emotion_detection/blob/master/images/accuracy.png)
 
